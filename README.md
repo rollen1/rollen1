@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Enjoy your problems</h3>
+<h3 align="center">Aspiring Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rollen1&label=Profile%20views&color=0e75b6&style=flat" alt="rollen1" /> </p>
 
